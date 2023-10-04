@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    .content span{
+        font-size: 18px !important;
+    }
+    .aboutme{
+        display: flex;
+        flex-direction: column;
+    }
+}
